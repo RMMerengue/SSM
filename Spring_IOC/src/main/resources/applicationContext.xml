@@ -50,5 +50,6 @@
         <constructor-arg name="userDao" ref="userDao"></constructor-arg>
     </bean>
 
-
+    <import resource="applicationContext-user.xml"></import>
+    <import resource="applicationContext-conduct.xml"></import>
 </beans>
