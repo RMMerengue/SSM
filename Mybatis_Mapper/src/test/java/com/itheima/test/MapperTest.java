@@ -1,4 +1,4 @@
-package com.itherima.test;
+package com.itheima.test;
 
 import com.itheima.domain.User;
 import com.itheima.mapper.UserMapper;
@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.locks.Condition;
 
 public class MapperTest {
 
